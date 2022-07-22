@@ -1,5 +1,7 @@
-This is a sample repo, hello, coders!
+Steps to synchronise data from local to github:
 
-This is a second change
+1. git add "file.py"
+2. git commit -m "comment"
+3. git push origin master
 
-This is a third change, from the github website (not local)!!
+Everything should now be up to date.
